@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\maryr\\OneDrive\\school\\fall2026\\cse325\\U02\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "C:\\Users\\maryr\\OneDrive\\school\\fall2026\\cse325\\U02\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "c:\\Users\\maryr\\OneDrive\\school\\fall2026\\cse325\\U02\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "C:\\Users\\maryr\\OneDrive\\school\\fall2026\\cse325\\U02\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\maryr\\OneDrive\\school\\fall2026\\cse325\\U02\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "C:\\Users\\maryr\\OneDrive\\school\\fall2026\\cse325\\U02\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "c:\\Users\\maryr\\OneDrive\\school\\fall2026\\cse325\\U02\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectPath": "C:\\Users\\maryr\\OneDrive\\school\\fall2026\\cse325\\U02\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "packagesPath": "C:\\Users\\maryr\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\maryr\\OneDrive\\school\\fall2026\\cse325\\U02\\RazorPagesMovie\\obj\\",
+        "outputPath": "C:\\Users\\maryr\\OneDrive\\school\\fall2026\\cse325\\U02\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maryr\\AppData\\Roaming\\NuGet\\NuGet.Config"
