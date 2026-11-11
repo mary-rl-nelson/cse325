@@ -1,0 +1,25 @@
+﻿@page "/"
+@rendermode InteractiveServer
+@using System.Drawing
+
+<PageTitle>Home</PageTitle>
+<h3>Pick Your Game Piece Color</h3>
+
+<div>
+     <label for="player1Color">Player 1 Color:</label>
+     <input type="color" id="player1Color" @bind="Player1Color"/>
+
+     <label for="player2Color">Player 2 Color:</label>
+     <input type="color" id="player2Color" @bind="Player2Color"/>
+
+</div>
+
+<Board 
+     BoardColor="System.Drawing.Color.Gray"
+     Player1Color="@ColorTranslator.FromHtml(Player1Color)"
+     Player2Color="@ColorTranslator.FromHtml(Player2Color)" />
+
+@code {
+     private string Player1Color { get; set; } = "#ff0000"; 
+     private string Player2Color { get; set; } = "#0000ff"; 
+}
